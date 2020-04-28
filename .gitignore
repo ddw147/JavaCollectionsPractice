@@ -1,0 +1,16 @@
+.vscode/
+.settings/
+node_modules/
+.idea/
+.project
+.classpath
+package-lock.json
+
+*.class
+target/
+bin/
+.settings/
+
+# Package Files #
+*.jar
+hs_err_pid*
